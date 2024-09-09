@@ -11,7 +11,8 @@ Pitched a new Software Project by:
 - Prototyping the design with Wireframes in Balsamiq
 
 Preview of the Balsamiq Wireframes:
-![image](https://github.com/user-attachments/assets/c0abf78b-d193-42be-9702-396163dde163)
-![image](https://github.com/user-attachments/assets/b97fe21a-f54e-4a21-9941-8112dc45bfce)
+![image](https://github.com/user-attachments/assets/b7bfc010-861d-46d8-8daf-defffec82e0b)
+![image](https://github.com/user-attachments/assets/09044ba8-afa7-46c3-97c9-6a71099f2490)
+![image](https://github.com/user-attachments/assets/5d0f3a16-16f2-4249-a1c1-a90a211f05a2)
 
 Author: Kyra Lothrop
